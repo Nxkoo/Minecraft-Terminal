@@ -1,14 +1,13 @@
 # Minecraft By Terminal
 
-O que será feito?
+What has been done?
 
-- Listar os mods da pasta .minecraft do usuario. ✅
-- Verificar se a pasta mods está limpa ou sem mods dentro. ✅
-- Se por acaso tiver algum arquivo.jar dentro desta pasta, irá ser feito um prompt onde a pessoa 
-deverá escolher se quer substituir ou não. ✅
+- Listed the mods in the user's .minecraft folder. ✅
+Checked if the mods folder is empty or has no mods inside. ✅
+- If there happened to be any .jar files in this folder, a prompt was displayed where the user had to choose whether to replace them or not. ✅
 
 ### Logger
 
-- metodo info() -> cor azul ==> "[INFO] msg" ✅
-- metodo warning() -> cor amarelo ==> "[WARNING] msg" ✅
-- metodo error() -> cor vermelho ==> "[ERROR] msg" ✅
+- method info() -> blue color ==> "[INFO] msg" ✅
+- method warning() -> yellow color ==> "[WARNING] msg" ✅
+- method error() -> red color ==> "[ERROR] msg" ✅
